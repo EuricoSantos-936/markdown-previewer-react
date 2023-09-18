@@ -13,4 +13,4 @@ This is [freeCodeCamp's markdown previewer project](https://www.freecodecamp.org
 
 ## PREVIEW
 
-If you can check running click on [link](https://replit.com/@Bizhead/Markdown-Previewer-FCC?v=1)
+If you can check running click on [link](https://markdown-previewer-fcc--bizhead.repl.co)
